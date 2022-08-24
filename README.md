@@ -1,8 +1,8 @@
 ### Hi there 👋
 > I'm Mohsen, a self-motivated, organized and quick learner Full-Stack Web Developer who is recentley graduated from Concordia University with a background in engineering. 
 
-- ⚡ My __technical skills__ include but not limited to: `React.js`, `JavaScript`, `CSS`, `Node.js`, `MongoDB`, `Agile (Jira/Scrum/Kanban)`, `Bootstrap` 
-- 🌱 I’m currently __learning__: `MySQL`, `Docker & Kubernetes`, `AWS`, `PostgreSQL`
+- ⚡ My __technical skills__ include but not limited to: `React.js`, `JavaScript`, `CSS`, `Node.js`, `MongoDB`, `Agile (Jira/Scrum/Kanban)`, `Bootstrap`, `AWS`, `PostgreSQL`, `Docker`
+- 🌱 I’m currently __learning__: `MySQL`
 - :email: You can __reach me__ at: `mbahaeddinii@gmail.com` 
 - :eyes: I'm currently __seeking__: `Full-Stack Web Dev Job Position`
 <!--
