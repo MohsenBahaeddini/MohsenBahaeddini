@@ -3,7 +3,7 @@
 
 - ⚡ My __technical skills__ include but not limited to: `React.js`, `JavaScript`, `Java`, `C#`, `.NET`, `CSS`, `Node.js`, `MongoDB`, `Agile (Jira/Scrum/Kanban)`, `Bootstrap`, `AWS`, `PostgreSQL`, `Docker`, `OOP`, `REST APIs`
 - :email: You can __reach me__ at: `mbahaeddinii@gmail.com` 
-- :eyes: I'm currently __seeking__: `Full-Stack Web Dev Job Position`
+- :eyes: I'm currently __seeking__: `Full-Stack Dev Job Position`
 <!--
 **MohsenBahaeddini/MohsenBahaeddini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
